@@ -99,7 +99,7 @@
                 </div>
              
                 <div class="col-12">
-                  <button type="submit" class="btn btn-success" name="submit" value="submit">Confirm Payment</button>
+                  <button type="submit" class="btn btn-success" name="submit" value="submit">Confirm</button>
                 </div>
               </form>
               <!--bs5 input-->
